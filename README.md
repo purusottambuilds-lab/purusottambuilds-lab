@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Purusottam Swain 👋
 
-<!--
-**purusottambuilds-lab/purusottambuilds-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Data Engineer specialising in cloud-native data pipelines on Microsoft Azure.
 
-Here are some ideas to get you started:
+## What I Build
+- End-to-end ETL/ELT pipelines using Azure Data Factory
+- PySpark transformations in Azure Databricks
+- Medallion Architecture lakehouses on ADLS Gen2
+- Delta Lake storage solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Azure Data Factory | Azure Databricks | PySpark | ADLS Gen2 | Delta Lake | Python | SQL
+
+## Portfolio
+👉 [View all projects](https://github.com/purusottambuilds-lab/data-engineering-projects)
+
+## Contact
+- Email: purusottam.builds@gmail.com
+- Upwork: [Purusottam Swain](https://www.upwork.com/freelancers/~017164fcff771e794c?mp_source=share)
+
+
