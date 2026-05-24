@@ -24,7 +24,8 @@ Azure Data Factory | Azure Databricks | PySpark | ADLS Gen2 | Delta Lake | Pytho
 
 ## Contact
 - Email: purusottam.builds@gmail.com
-- Upwork: [Purusottam Swain](https://www.upwork.com/freelancers/~017164fcff771e794c?mp_source=share)
+- [Upwork](https://www.upwork.com/freelancers/~017164fcff771e794c?mp_source=share)
+- [Fiverr](https://www.fiverr.com/purusottam_sn?public_mode=true)
 
 ---
 
